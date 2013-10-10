@@ -1,0 +1,5 @@
+The main program for handeling ISO 8583 messages from paypoint is in server.cpp file.
+
+Testing:
+	The server program can be tested using client.cpp
+	To change the messages payment, reversal and void files need to be changed.
